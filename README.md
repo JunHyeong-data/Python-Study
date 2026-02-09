@@ -1,2 +1,53 @@
 # Python-Study
-Python study repository with examples and exercises
+
+이 저장소는 **파이썬 기초부터 데이터 분석까지** 학습하며  
+정리한 개인 학습 노트와 실습 코드 모음입니다.
+
+문법 이해에 그치지 않고,  
+직접 코드를 작성하며 파이썬 사용에 익숙해지는 것을 목표로 합니다.
+
+---
+
+## 📌 Purpose
+
+- 파이썬 기본 문법 및 핵심 개념 정리
+- 예제와 실습을 통한 문제 해결 능력 향상
+- 데이터 처리 및 분석을 위한 파이썬 활용 연습
+
+---
+
+## 📚 Contents
+
+### 1️⃣ Python Basics
+- 변수, 자료형
+- 조건문, 반복문
+- 함수
+- 클래스 및 객체지향 기초
+
+📂 `Unistudy-Let-s-python-programming/`
+
+---
+
+### 2️⃣ Data Analysis with Python
+- NumPy 기초
+- Pandas를 활용한 데이터 처리
+- 간단한 데이터 분석 실습
+
+📂 `python-data-analysis-book-study/`
+
+---
+
+## 🧠 Learning Resources
+
+- 『유니스터디 실전 예제로 배우는 파이썬 프로그래밍』
+- 『파이썬 라이브러리를 활용한 데이터 분석』
+
+위 자료를 기반으로 학습하며,  
+이해한 내용을 중심으로 정리했습니다.
+
+---
+
+## ⚠️ Note
+
+본 저장소는 **개인 학습 목적**으로 작성되었습니다.  
+일부 코드와 설명은 학습을 돕기 위해 단순화되어 있을 수 있습니다.
